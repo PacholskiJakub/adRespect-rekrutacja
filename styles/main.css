@@ -21,6 +21,10 @@ body button {
   padding: 2%;
 }
 
+.custom-button__pad {
+  padding: 6%;
+}
+
 @media only screen and (max-width: 600px) {
   .custom-button {
     font-size: 10px;

@@ -23,6 +23,10 @@ body {
 
     padding: 2%;
 
+    &__pad {
+        padding: 6%;
+    }
+
     @media only screen and (max-width: 600px) {
         font-size: 10px;
     }
